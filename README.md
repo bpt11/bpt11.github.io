@@ -11,3 +11,7 @@ So far, I really like that I can publish changes quite easily just by opening gi
 ---
 
 Update: Just spent some time and set it up so that I can just update my neocities directly through github with a workflow using the neocities api, so now it's just as easy for me to update it as it would be with github pages. So, I don't think I will be moving my neocities site to github pages. Maybe I'll use it still for something else eventually but for now I'm done.
+
+---
+
+Decided I'm just gonna use this to test things that I may or may not implement into my neocities site. Right now I'm going to investigate something from monastic.neocities.org, called the Markdown Zen Garden, a front end markdown rendering method using Marked, Pico and fetch. 
